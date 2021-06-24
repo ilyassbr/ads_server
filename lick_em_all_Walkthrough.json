@@ -1,0 +1,81 @@
+{
+
+  "lick_em_all_Walkthrough": {
+
+    "ads": {
+		
+      "fb_banner": "330302908604829_330303568604763",
+
+      "fb_native":"330302908604829_330304701937983",
+      
+      "fb_interstitial": "330302908604829_330305241937929"
+
+    },
+
+    "items": [
+
+      {
+
+        "image": "https://archive.org/download/mmmi1/mmmi1.png",
+
+        "title": "First Tip:",
+        
+        "guide1": "You have to lick only the good food, like cakes and chicken...",
+        
+        "guide2": "."
+
+      },
+
+      {
+
+        "image": "https://ia601405.us.archive.org/9/items/mmmi1/mmmi2.png",
+
+        "title": "Second Tip:",
+
+        "guide1": "You need to avoid things that are not good for humans. like mushroom and poo.",
+        
+        "guide2": "."
+
+      },
+
+      {
+
+        "image": "https://ia601405.us.archive.org/9/items/mmmi1/mmmi3.png",
+
+        "title": "Third Tip:",
+
+        "guide1": "Try to collect as many points as you can by only licking the good food.",
+        
+        "guide2": "."
+		
+      },
+
+      {
+
+        "image": "https://ia601405.us.archive.org/9/items/mmmi1/mmmi4.png",
+
+        "title": "Fourth Tip:",
+
+        "guide1": "Keep licking until the green progress bar in the top is full.",
+        
+        "guide2": "."
+		
+      },
+
+      {
+
+        "image": "https://ia601405.us.archive.org/9/items/mmmi1/mmmi5.png",
+    
+		"title": "Fifth Tip:",
+
+        "guide1": "Bad Food will make you lose points the and the game.",
+        
+        "guide2": "."
+		
+      }
+
+    ]
+
+  }
+
+}
